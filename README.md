@@ -10,5 +10,6 @@ El proceso a seguir seria el siguiente.
 ![Imagen Proceso](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Proceso.JPG)
 
 Y aquí seria donde le pondriamos nombre al equipo.
+
 ![Imagen Proceso1](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Proceso1.JPG)
 
