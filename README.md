@@ -13,3 +13,8 @@ Y aquí seria donde le pondriamos nombre al equipo.
 
 ![Imagen Proceso1](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Proceso1.JPG)
 
+Ahora pondremos estatica la ip de nuestro servidor ya que no nos interesa que este en dhcp.
+
+![Imagen Proceso1](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic.JPG)
+![Imagen Proceso1](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic2.JPG)
+
