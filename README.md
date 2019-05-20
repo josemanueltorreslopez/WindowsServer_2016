@@ -1,5 +1,13 @@
 # WindowsServer_2016
 ## Ejercicio Windows Server 2016
+### Explicacion de la Empresa
+
+En esta empresa estara el equipo administrador y otro de ayudante de administracion que entre ambos gestionaran todo.
+Por otra parte Gestion se encargara de la gestion de los vienes de la empresa.
+Y la parte de Contabilidad sera aquella que se dedique a las finanzas dentro de la empresa.
+Gestion y Contabilidad tendra cada uno dos usuarios y dos equipos a los que no podran acceder desde el equipo del otro y solo en horario laboral podran acceder. 
+Por otra parte administracion sera un ordenador de ayuda para el equipo administrador.
+
 ### Preparación
 Lo primero que debemos hacer es ver y configurar el nombre del equipo para que se pueda visualizar correctamente.
 
@@ -108,8 +116,3 @@ Le quitamos las restricciones para poder entrar al usuario o probamos con otro y
 
 ![Imagen ComprobacionUsuario](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/ComprobacionUsu.PNG)
 ![Imagen ComprobacionDHCP](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/ComprobacionClienteDHCP.PNG)
-
-### Explicacion de la Empresa
-
-En esta empresa estara el equipo administrador y otro de ayudante de administracion que entre ambos gestionaran todo.
-Por otra parte 
