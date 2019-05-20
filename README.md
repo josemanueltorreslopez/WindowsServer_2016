@@ -28,3 +28,9 @@ Una vez termine de instalarse lo cerramos y nos aparecera en la banderita una se
 
 ![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Dominio.JPG)
 ![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Dominio2.JPG)
+
+Y ya terminamos de instalar el Rol de Active Directory
+
+
+![Imagen FinInstalacion](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/FinInstalacion.JPG)
+![Imagen FinInstalacion2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/FinInstalacion2.JPG)
