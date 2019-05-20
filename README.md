@@ -53,3 +53,5 @@ Y en el menu que nos sale deberemos crear un nuevo ambito.
 ![Imagen Ambito](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Ambito.JPG)
 ![Imagen Ambito2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Ambito1.JPG)
 ![Imagen Ambito3](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Ambito2.JPG)
+
+En esta seccion es donde daremos el rango de Ips que repartira nuestro servidor.
