@@ -23,3 +23,8 @@ Ahora empezaremos con la instalación del Active Directory, y lo primero es agre
 
 ![Imagen RolAD](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolAD.JPG)
 ![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolAD2.JPG)
+
+Una vez termine de instalarse lo cerramos y nos aparecera en la banderita una señar de atencion. Le daremos y debremos seguir los siguientes pasos, para darle un dominio a nuestro Active Directory.
+
+![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Dominio.JPG)
+![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Dominio2.JPG)
