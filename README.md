@@ -15,6 +15,11 @@ Y aquí seria donde le pondriamos nombre al equipo.
 
 Ahora pondremos estatica la ip de nuestro servidor ya que no nos interesa que este en dhcp.
 
-![Imagen Proceso1](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic.JPG)
-![Imagen Proceso1](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic2.JPG)
+![Imagen IpStatic](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic.JPG)
+![Imagen IpStatic2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic2.JPG)
 
+### Instalacion del Active Directory
+Ahora empezaremos con la instalación del Active Directory, y lo primero es agregar su rol.
+
+![Imagen RolAD](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolAD.JPG)
+![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic2.JPG)
