@@ -22,4 +22,4 @@ Ahora pondremos estatica la ip de nuestro servidor ya que no nos interesa que es
 Ahora empezaremos con la instalación del Active Directory, y lo primero es agregar su rol.
 
 ![Imagen RolAD](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolAD.JPG)
-![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/IpStatic2.JPG)
+![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolAD2.JPG)
