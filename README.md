@@ -29,8 +29,27 @@ Una vez termine de instalarse lo cerramos y nos aparecera en la banderita una se
 ![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Dominio.JPG)
 ![Imagen RolAD2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Dominio2.JPG)
 
-Y ya terminamos de instalar el Rol de Active Directory
-
+Y ya terminamos de instalar el Rol de Active Directory.
 
 ![Imagen FinInstalacion](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/FinInstalacion.JPG)
 ![Imagen FinInstalacion2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/FinInstalacion2.JPG)
+
+### Instalacion DHCP
+Para hacer que nuestro servidor sea tambien servidor de DHCP deberemos instalarle el rol correspondiente.
+
+![Imagen RolDHCP](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolDHCP.JPG)
+![Imagen RolDHCP2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/RolDHCP2.JPG)
+
+Nos saltara un aviso en el que deberemos configurar el DHCP
+
+![Imagen ConfiguracionDHCP](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/ConfiguracionDHCP.JPG)
+
+Una vez terminado de configurar deberemos irnos a la parte de herramientas y buscar el DHCP.
+
+![Imagen Herramientas](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Herramientas.JPG)
+
+Y en el menu que nos sale deberemos crear un nuevo ambito.
+
+![Imagen Ambito](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Ambito.JPG)
+![Imagen Ambito2](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Ambito1.JPG)
+![Imagen Ambito3](https://github.com/josemanueltorreslopez/WindowsServer_2016/blob/master/Ambito2.JPG)
